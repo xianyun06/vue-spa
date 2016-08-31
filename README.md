@@ -4,7 +4,8 @@
 
 ## Documentation
 
-this boilerplate is extend from http://vuejs-templates.github.io/webpack.extend includes 'vue-loader'+'vuex'+'veu-resource'+'mint-ui'
+this boilerplate is extend from https://github.com/vuejs-templates/webpack 
+the extends including 'vue-loader'+'vuex'+'veu-resource'+'mint-ui'
 
 Common topics are discussed in the [docs](http://vuejs-templates.github.io/webpack). Make sure to read it!
 
