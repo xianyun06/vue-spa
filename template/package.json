@@ -22,7 +22,7 @@
     "vue-resource": "^0.9.3",
     "vue-router": "^0.7.13",
     "vuex": "^1.0.0-rc.2",
-    "mint-ui": "^0.2.6",
+    "mint-ui": "^0.2.6"
 },
   "devDependencies": {
     "babel-core": "^6.0.0",
